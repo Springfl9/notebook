@@ -49,3 +49,23 @@ body{
 3. 删除用户信息以及缓存
 
 <kbd>Win</kbd> + <kbd>R</kbd>，输入%appdata%，删除:file_folder:code以及:file_folder: Visual Studio Code文件夹
+
+# 4 加速器
+
+GitHub访问加速器
+
+## 4.1 uu加速器
+
+* 下载地址：
+
+https://uu.163.com/
+
+* 使用方法：
+
+搜索学术资源
+
+## 4.2 Watt Toolkit（原名steam++）
+
+* 下载地址：
+
+https://steampp.net/
