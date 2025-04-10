@@ -27,5 +27,4 @@ git config --global core.quotepath false
 
 设置文本编码格式为utf-8
 
-![image-20221211173345006](../00%20picture/image-20221211173345006.png)
-
+![](01_Git配置.assets/image-20221211173345006.png)
