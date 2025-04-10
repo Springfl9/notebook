@@ -1,7 +1,7 @@
 **github token，有效期90天，用于github图床，上传markdown图片。**
 
 ```properties
-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
+添加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冗余信息
 ```
 
 
